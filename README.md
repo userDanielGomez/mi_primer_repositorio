@@ -1,2 +1,3 @@
-# mi_primer_repositorio
-Primer respositorio en Github para curso 
+# mi-primer-readme
+
+Primer respositorio en Github para curso
